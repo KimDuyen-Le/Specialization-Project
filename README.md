@@ -1,5 +1,4 @@
 # Automatic Speech Analysis using Acoustic-to-Articulatory Inversion for Detection of Parkinson's Disease
-This is for the specialization project in TFE4580.
+This is for the course TFE4580 Electronic Systems Design and Innovation - Specialization Project, by Kim Duyen Le. 
 
-### What is in this repositorium
-Code performing feature extraction on audio files and data files in PC-GITA speech database, classification of PD and evaluating the classification models.
+This git repository contains code that detects Parkinson's Disease (PD) using speech analysis, which involves feature extraction, classification of PD and evaluating the classification models.
